@@ -7,7 +7,7 @@ When you open up VS Code, press Command+Shift+P, type in `Shell Command: Install
 Move to your terminal and we're going to clone a different repository based off of the embed sdk
 
 ```
-git clone https://github.com/bryan-at-looker/embed-sdk-sko
+git clone https://github.com/samudzi/embed-sdk-sko
 cd embed-sdk-sko
 git checkout section1
 code .
